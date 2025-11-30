@@ -20,3 +20,5 @@ Follow these steps to set up your project environment:
    pip install -r scripts/requirements.txt
    ```
 
+# AlzheimerComplexDataProject
+Developed as a University assignment for the course Complex Data in Health in UPM
