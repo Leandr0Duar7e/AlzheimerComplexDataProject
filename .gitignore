@@ -1,3 +1,4 @@
+*.gz
 *.DS_Store
 Data/.DS_Store
 *.bib
