@@ -1,3 +1,8 @@
 ipykernel
 rdflib
 SPARQLWrapper
+scanpy
+pandas
+numpy
+scipy
+matplotlib
