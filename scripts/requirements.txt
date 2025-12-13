@@ -6,3 +6,8 @@ pandas
 numpy
 scipy
 matplotlib
+torch
+torchvision
+kagglehub
+scanpy
+networkx
