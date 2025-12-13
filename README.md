@@ -21,5 +21,11 @@ Follow these steps to set up your project environment:
    ```
 
 # AlzheimerComplexDataProject
-Developed as a University assignment for the course Complex Data in Health in UPM
+Developed as a University assignment for the course Complex Data in Health at UPM
+
+## How to run the analysis notebooks and view materials
+- Notebooks: You can run the notebook located at
+  - `FinalProject/scripts/
+- Documentation: You can read the project report in
+  `FinalProject/CDE_Studying_a_Disease.pdf` with any PDF viewer.
 

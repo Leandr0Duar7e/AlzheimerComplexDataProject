@@ -11,3 +11,5 @@ torchvision
 kagglehub
 scanpy
 networkx
+PIL
+sklearn
