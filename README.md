@@ -5,7 +5,7 @@
 Follow these steps to set up your project environment:
 
 1. **Create the virtual environment**  
-   Open a terminal in the `FinalProject/` directory and run:
+   Open a terminal in this directory and run:
    ```
    python3 -m venv scripts/.venv
    ```
@@ -25,7 +25,7 @@ Developed as a University assignment for the course Complex Data in Health at UP
 
 ## How to run the analysis notebooks and view materials
 - Notebooks: You can run the notebook located at
-  - `FinalProject/scripts/
+  - `scripts/
 - Documentation: You can read the project report in
-  `FinalProject/CDE_Studying_a_Disease.pdf` with any PDF viewer.
+  `CDE_Studying_a_Disease.pdf` with any PDF viewer.
 
